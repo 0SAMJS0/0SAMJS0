@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+%40+University+of+South+Florida;AI+%2F+ML+%2B+Robotics+Enthusiast;Building+a+30-Day+ML+Portfolio+Challenge;Currently+exploring+RAG%2C+CV%2C+and+MLOps" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://syedabdullahmjshah.com/">
+    <img src="https://img.shields.io/badge/Portfolio-syedabdullahmjshah.com-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
+
 ---
 
 ### About Me
